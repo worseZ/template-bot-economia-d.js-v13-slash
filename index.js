@@ -9,4 +9,4 @@ client.slashCommands = new Collection();
 
 require("./handler")(client);
 
-client.login("TOKEN DO BOT");
+client.login("993328800509210645");
